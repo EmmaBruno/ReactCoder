@@ -9,7 +9,8 @@ function App() {
         <NavBar/>
       </header>
       <section className="App-container">
-        <ItemListContainer greeting={'Bienvenidos la tienda!'}/>
+        <h1>Productos</h1>
+        <ItemListContainer/>
       </section>
     </div>
   );
